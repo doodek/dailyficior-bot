@@ -1,2 +1,5 @@
 # dailyficior-bot
-Follow Instagram accounts from Telegram!
+
+Work in progress
+
+Follow your favourite Instagram star from Telegram!
